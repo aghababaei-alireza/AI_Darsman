@@ -1,0 +1,1 @@
+db.products.insertMany([{_id: 4, title: 'VGA', price: 4500000}, {_id: 5, title: 'Mouse', price: 450000}])
