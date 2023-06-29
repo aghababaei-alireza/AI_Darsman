@@ -1,0 +1,11 @@
+[
+{"_id":1,"name":"ASUS","price":38000000,"spec":{"ram":16,"cpu":2.66},"storage":[1024],"color":["white","black"]},
+{"_id":2,"name":"Apple","price":93000000,"spec":{"ram":8,"cpu":3.66},"storage":[128,256],"color":["white","black","blue"]},
+{"_id":3,"name":"HP","price":28000000,"spec":{"ram":12,"cpu":3.66},"storage":[16,64,128],"color":["blue"]},
+{"_id":4,"name":"Dell","price":21000000,"spec":{"ram":8,"cpu":1.66},"storage":[128,256,1024],"color":["white","yellow","gold","gray"]},
+{"_id":5,"name":"Acer","price":32000000,"spec":{"ram":8,"cpu":1.66},"storage":[128,256,512],"color":["white","gold","gray"]},
+{"_id":6,"name":"Lenovo","price":18000000,"spec":{"ram":16,"cpu":3.66},"storage":[16,64,128],"color":["black"]},
+{"_id":7,"name":"HP","price":26000000,"spec":{"ram":16,"cpu":3.66},"storage":[16,64,128],"color":["black"]},
+{"_id":8,"name":"HP","price":26000000,"spec":{"ram":16,"cpu":3.66},"storage":[16,64,128],"color":["black"]},
+{"_id":9,"name":"Dell","price":15000000,"spec":{"ram":4,"cpu":1.66},"storage":[16,32],"color":["black"]}
+]
