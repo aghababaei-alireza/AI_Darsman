@@ -1,0 +1,173 @@
+[
+  {
+    "name": "Ali",
+    "age": 22,
+    "height": 184,
+    "gender": "male",
+    "weight": 88,
+    "eye_color": "blue",
+    "salary": 6500000
+  },
+  {
+    "name": "Mehdi",
+    "age": 43,
+    "height": 176,
+    "gender": "male",
+    "weight": 91,
+    "eye_color": "green",
+    "salary": 12500000
+  },
+  {
+    "name": "Reza",
+    "age": 56,
+    "height": 174,
+    "gender": "male",
+    "weight": 75,
+    "eye_color": "black",
+    "salary": 6000000
+  },
+  {
+    "name": "",
+    "age": "",
+    "height": "",
+    "gender": "",
+    "weight": "",
+    "eye_color": "",
+    "salary": ""
+  },
+  {
+    "name": "Sahar",
+    "age": 42,
+    "height": 186,
+    "gender": "female",
+    "weight": 65,
+    "eye_color": "green",
+    "salary": 7200000
+  },
+  {
+    "name": "Ahmad",
+    "age": 31,
+    "height": 181,
+    "gender": "male",
+    "weight": 90,
+    "eye_color": "blue",
+    "salary": 4700000
+  },
+  {
+    "name": "Mobina",
+    "age": 40,
+    "height": 165,
+    "gender": "",
+    "weight": 55,
+    "eye_color": "brown",
+    "salary": 6300000
+  },
+  {
+    "name": "Narges",
+    "age": "",
+    "height": 169,
+    "gender": "female",
+    "weight": 52,
+    "eye_color": "brown",
+    "salary": 4700000
+  },
+  {
+    "name": "Kamran",
+    "age": "",
+    "height": 175,
+    "gender": "male",
+    "weight": 55,
+    "eye_color": "black",
+    "salary": 9400000
+  },
+  {
+    "name": "Javad",
+    "age": 72,
+    "height": 173,
+    "gender": "male",
+    "weight": 50,
+    "eye_color": "brown",
+    "salary": 8350000
+  },
+  {
+    "name": "Saeed",
+    "age": 22,
+    "height": 194,
+    "gender": "male",
+    "weight": 780,
+    "eye_color": "black",
+    "salary": 11000000
+  },
+  {
+    "name": "Yousef",
+    "age": 14,
+    "height": 65,
+    "gender": "male",
+    "weight": 18,
+    "eye_color": "brown",
+    "salary": 2690000
+  },
+  {
+    "name": "Ladan",
+    "age": 19,
+    "height": "",
+    "gender": "female",
+    "weight": 54,
+    "eye_color": "black",
+    "salary": 5800000
+  },
+  {
+    "name": "Maryam",
+    "age": 26,
+    "height": 184,
+    "gender": "female",
+    "weight": 64,
+    "eye_color": 18,
+    "salary": 3850000
+  },
+  {
+    "name": "Fatemeh",
+    "age": 69,
+    "height": 173,
+    "gender": "",
+    "weight": 71,
+    "eye_color": "brown",
+    "salary": 6750000
+  },
+  {
+    "name": "Mohsen",
+    "age": 11,
+    "height": 159,
+    "gender": "male",
+    "weight": 48,
+    "eye_color": "green",
+    "salary": 10800000
+  },
+  {
+    "name": "Nahid",
+    "age": 22,
+    "height": 183,
+    "gender": "female",
+    "weight": 65,
+    "eye_color": "",
+    "salary": 9250000
+  },
+  {
+    "name": "Babak",
+    "age": 36,
+    "height": 185,
+    "gender": "male",
+    "weight": 80,
+    "eye_color": "black",
+    "salary": 8300000
+  },
+  {
+    "name": "Mehdi",
+    "age": 43,
+    "height": 176,
+    "gender": "male",
+    "weight": 91,
+    "eye_color": "brown",
+    "salary": 12500000
+  }
+]
